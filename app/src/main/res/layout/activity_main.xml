@@ -16,6 +16,14 @@
         android:background="@drawable/button"
         android:layout_margin="10dp"
         android:textColor="@drawable/buttontext"/>
+    <Button
+        android:id="@+id/go"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="传送门"
+        android:background="@drawable/button"
+        android:layout_margin="10dp"
+        android:textColor="@drawable/buttontext"/>
 
 
 
