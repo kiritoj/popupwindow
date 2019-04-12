@@ -1,4 +1,6 @@
 # popupwindow
+练习了一下底部导航栏的实现
+***
 练习一下popupWindow的用法
 ## 效果图
 ![](https://github.com/kiritoj/popupwindow/blob/master/pic.gif)![](https://github.com/kiritoj/popupwindow/blob/master/yanshi.gif)\
